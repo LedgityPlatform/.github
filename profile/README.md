@@ -18,11 +18,29 @@ Vancelian reprend l’ADN de Ledgity — exigence, transparence et innovation �
 
 ---
 
+## 🧭 Suivi des fonds et de la migration
+
+Afin d’assurer une transition claire et maîtrisée, une plateforme dédiée a été développée et reste accessible à l’adresse suivante :
+
+🌐 **https://app.ledgity.com**
+
+Cette plateforme permet à chaque utilisateur de :
+
+- 🔍 **Consulter ses fonds et leur état**
+- 📊 **Suivre le statut de chaque compte et de chaque actif**
+- 🔄 **Suivre en temps réel l’état d’avancement de la migration**
+- ❌ **Refuser explicitement la migration vers Vancelian**, s’il le souhaite
+
+Cette interface a pour objectif de garantir **transparence, traçabilité et contrôle utilisateur** tout au long du processus.
+
+---
+
 ## ℹ️ Qu’est-ce que cela signifie ?
 
 - 🛑 **Ledgity App n’est plus en développement actif**
 - 🔒 Les dépôts de cette organisation sont conservés à des fins d’archivage
 - 🔁 Les développements, produits et innovations se poursuivent chez **Vancelian**
+- 🧾 Les utilisateurs conservent un accès au suivi de leurs fonds et de leur migration via **app.ledgity.com**
 
 ---
 
